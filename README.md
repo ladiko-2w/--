@@ -1,34 +1,26 @@
-ქვეყნის გადარჩენა
 html site
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>გადავარჩინოთ ქვეყანა</title>
+    <title>გადაარჩინე ქვეყანა</title>
     <link rel="icon" type="image" href="xee.jpg"
+
 </head>
+
 <body>
-    <h1>გაინტერესებს როგორ გადავარჩინოთ ქვეყნიერება ხეების მეშვეობით</h1>
-    <h4>ვებ-საიტი გაკეთებულია ლადო  თედიაშვილის მიერ</h4>
+    <h1>როგორ გადავარჩინოთ ქვეყანა</h1>
     <hr>
-    <a href="file:///C:/Users/Mzia/OneDrive/Desktop/website/html.html"
-    </a>
-    <style>
-        .button {
-          background-color: blue;
-          color: white;
-          padding: 12px 20px;
-          border-radius: 8px;
-          text-decoration: none;
-          display: inline-block;
-        }
-
-        .button:hover {
-          background-color: lightblue;
-        }
-    </style>
-
-<button class="button">გაიგე მეტი</button>
+    <h4>რომ გადავარჩინოთ ქვეყანა საჭიროა</h4>
+    <h4>1.ჩავრგოთ ხეები.</h4>
+    <h4>2.არ დავყაროთ ნაგავი სადაც მოგვინდება ჩავყაროთ მხოლოდ და მხოლოდ ნაგვის ყუთში.</h4>
+    <hr>
+    <h4>მოდით ახლა ვილაპარაკოd ხეების ჩარგვაზე </h4>
+    <h4>შეიძლება დაისვას რამდენიმე კითხვა</h4>
+    <h4>რაში დაგვეხმარება ხეების ჩარგვა?</h4>
+    <h4>პასუხი:ჩვენ ყველამ კარგად ვიცით ფოტოსინთეზი რა არი მოდით გავიხსენოთ</h4>    
+    <img src="1.png" width="600">
+    
 </body>
 </html>
