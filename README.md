@@ -20,7 +20,7 @@ html site
     <h4>შეიძლება დაისვას რამდენიმე კითხვა</h4>
     <h4>რაში დაგვეხმარება ხეების ჩარგვა?</h4>
     <h4>პასუხი:ჩვენ ყველამ კარგად ვიცით ფოტოსინთეზი რა არი მოდით გავიხსენოთ</h4>    
-    <img src="1.png" width="600">
+    <img src="https://img.marketer.ge/2019/10/india-plants-fifty-million-trees.jpg" width="600">
     
 </body>
 </html>
